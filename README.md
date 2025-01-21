@@ -1,2 +1,4 @@
 # Artefak_TA_1305210073
-TugasAkhir_LatifaFirdausi_Analisis_Stunting_pada_Balita_Menggunakan_K-Nearest_Neighbor_dan_Naive Bayes
+Tugas Akhir Analisis Stunting pada Balita_Menggunakan K-Nearest Neighbor dan Naive Bayes
+Nama: Latifa Firdausi
+NIM: 1305210073
